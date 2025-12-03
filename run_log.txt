@@ -1,0 +1,20 @@
+/home/adebisivince/DevProject/spoonOS/spoon-env/lib/python3.12/site-packages/websockets/legacy/__init__.py:6: DeprecationWarning: websockets.legacy is deprecated; see https://websockets.readthedocs.io/en/stable/howto/upgrade.html for upgrade instructions
+  warnings.warn(  # deprecated in 14.0 - 2024-11-09
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: get_token_price
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: get_24h_stats
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: get_kline_data
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: price_threshold_alert
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: lp_range_check
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: monitor_sudden_price_increase
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: lending_rate_monitor
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: crypto_market_monitor
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: predict_price
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: token_holders
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: trading_history
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: uniswap_liquidity
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: wallet_analysis
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: crypto_powerdata_cex
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: crypto_powerdata_dex
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: crypto_powerdata_indicators
+INFO:spoon_ai.tools.crypto_tools:✅ Loaded crypto tool: crypto_powerdata_price
+INFO:spoon_ai.tools.crypto_tools:🔧 Loaded 17 crypto tools successfully
